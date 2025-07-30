@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 1,
+      "conhecimento": 2,
+      "energia": -2
+    }
+  },
+  {
+    "id": 2,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  },
+  {
+    "id": 3,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 4,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -1
+    }
+  },
+  {
+    "id": 5,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 1,
+      "conhecimento": 2,
+      "energia": -2
+    }
+  },
+  {
+    "id": 6,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 1,
+      "conhecimento": 2,
+      "energia": -2
+    }
+  },
+  {
+    "id": 7,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -1
+    }
+  },
+  {
+    "id": 8,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 9,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  },
+  {
+    "id": 10,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 1,
+      "conhecimento": 2,
+      "energia": -2
+    }
+  },
+  {
+    "id": 11,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 12,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  },
+  {
+    "id": 13,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 14,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -1
+    }
+  },
+  {
+    "id": 15,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 16,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 1,
+      "conhecimento": 2,
+      "energia": -2
+    }
+  },
+  {
+    "id": 17,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -1
+    }
+  },
+  {
+    "id": 18,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -1
+    }
+  },
+  {
+    "id": 19,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  },
+  {
+    "id": 20,
+    "question": {
+      "pt": "Não implementado",
+      "en": "Não implementado",
+      "es": "Não implementado",
+      "fr": "Não implementado"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  }
+]

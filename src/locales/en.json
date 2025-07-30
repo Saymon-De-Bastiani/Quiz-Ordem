@@ -1,0 +1,78 @@
+{
+  "header": {
+    "logo": "4 Elements",
+    "version": "Version ",
+    "new_questions": " [Falta Traduzir] ",
+    "old_questions": " [Falta Traduzir] ",
+    "languages": "Languages",
+    "lang_pt": "Portuguese",
+    "lang_es": "Spanish",
+    "lang_en": "English",
+    "lang_fr": "French"
+  },
+  "home": {
+    "title": "Paranormal Order<br>Element test",
+    "start": "START TEST",
+    "footer": "Unofficial Paranormal Order project"
+  },
+  "warning": {
+    "back": "< Back",
+    "desc_1": " [Em Tradução] ",
+    "desc_2": "[Em Tradução]",
+    "desc_3": "It is very important to highlight: <b>We are not an official Paranormal Order project </b>, we are a community made by fans to fans. We don't have any fixed contact with Cellbit or with his team. Wanna get in touch with us? Enter our <a href='#'>Discord!</a> You can also find us in <a href='https://x.com/Elementos04'>Twitter.</a>",
+    "desc_4": "We also highly recommend that you avoid checking the “neutral” option for a more precise result. Use the button “back” to change your LAST answer if needed",
+    "checkbox": "I’ve read everything because I'm a nice person and definitely did not just skim thought and clicked in the first button I saw just to skip this boring part",
+    "proceed": "Proceed"
+  },
+  "test": {
+    "agree_st": "Completely agree",
+    "agree": "Agree",
+    "neutral": "Neutral",
+    "disagree": "Disagree",
+    "disagree_st": "Completely disagree",
+    "back": "Back"
+  },
+  "end_test": {
+    "title": "End of test",
+    "info": "Enter your name for a personalized results page. This is an optional step, this information will only be register on your own brower.",
+    "placeholder": "Enter your name…",
+    "send_answer": "Send reply."
+  },
+  "result": {
+    "greeting": "[Falta Traduzir] { name } !",
+    "death_per": "Death",
+    "blood_per": "Blood",
+    "knowledge_per": "Knowledge",
+    "energy_per": "Energy",
+    "spectrum": "Your spectrum:",
+    "description": "Description",
+    "footer": "Unofficial Paranormal Order project"
+  },
+  "elements": {
+    "Morte": {
+      "affinity": "Your affinity is with the Death element:",
+      "phrase": "Everything has a beginning and an end, and Time takes all things. Nothing that is taken by Death can ever return what it was before.",
+      "description": "Death is the entity of time. It seeks out the moments experienced, distorting the egoic perception of each individual 's existence to its own liking.<br>Death's temporal distortion ruins the carnal perception of Blood"
+    },
+    "Sangue": {
+      "affinity": "Your affinity is with the Blood element:",
+      "phrase": "It all starts with Blood. The Blood is the flow that drenches the Other Side’s eternity",
+      "description": "Blood is the entity of feelings. Its seeks the intensity: pain, obsession, passion, love, hunger, hatred - all the involves feeling an extreme emotion pleases the Blood entity.<br>The extreme feeling of Blood overcome the reason and calm of Knowledge."
+    },
+    "Conhecimento": {
+      "affinity": "Your affinity is with the Knowledge element:",
+      "phrase": "Knowing everything is losing everything.",
+      "description": "Knowledge is the entity of consciousness. Discover, learning, knowing, decipher. Having your own percepcion of the Other Side and your entities pleases the Knowledge element.<br>The reason and logic of Knowledge reintegrate and suppress the chaos of Energy."
+    },
+    "Energia": {
+      "affinity": "Your affinity is with the Energy element:",
+      "phrase": "The Chaos is inevitable.",
+      "description": "Energy is the entity of chaos. Everything that cannot be explained, the intangible, anarchy. Constant change, heat and cold, light and darkness. Everything that involves unpredictability and transformation pleases the entity of Energy.<br>Energy transformation supercharges the effects of Death."
+    },
+    "Medo": {
+      "affinity": "Your affinity is with the Fear element:",
+      "phrase": "Fear is infinite.",
+      "description": "Fear is the entity of the unknown and the infinite. Present since the dawn of humanity, it modifies the nature of the universe. Its differentiated existence is a mystery."
+    }
+  }
+}

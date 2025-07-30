@@ -1,0 +1,78 @@
+{
+  "header": {
+    "logo": "4 Elementos",
+    "version": "[Em andamento]",
+    "new_questions": "[Em andamento]",
+    "old_questions": "[Em andamento]",
+    "languages": "[Em andamento]",
+    "lang_pt": "[Em andamento]",
+    "lang_es": "[Em andamento]",
+    "lang_en": "[Em andamento]",
+    "lang_fr": "[Em andamento]"
+  },
+  "home": {
+    "title": "",
+    "start": "",
+    "footer": ""
+  },
+  "warning": {
+    "back": "",
+    "desc_1": "",
+    "desc_2": "",
+    "desc_3": "",
+    "desc_4": "",
+    "checkbox": " ",
+    "proceed": ""
+  },
+  "test": {
+    "agree_st": "",
+    "agree": "",
+    "neutral": "",
+    "disagree": "",
+    "disagree_st": "",
+    "back": ""
+  },
+  "end_test": {
+    "title": "",
+    "info": "",
+    "placeholder": "",
+    "send_answer": ""
+  },
+  "result": {
+    "greeting": "",
+    "death_per": "",
+    "blood_per": "",
+    "knowledge_per": "",
+    "energy_per": "",
+    "spectrum": "",
+    "description": "",
+    "footer": ""
+  },
+  "elements": {
+    "Morte": {
+      "affinity": "",
+      "phrase": "",
+      "description": ""
+    },
+    "Sangue": {
+      "affinity": "",
+      "phrase": "",
+      "description": ""
+    },
+    "Conhecimento": {
+      "affinity": "",
+      "phrase": "",
+      "description": ""
+    },
+    "Energia": {
+      "affinity": "",
+      "phrase": "",
+      "description": ""
+    },
+    "Medo": {
+      "affinity": "",
+      "phrase": "",
+      "description": ""
+    }
+  }
+}
